@@ -1,4 +1,4 @@
-FUCK
+template-codes
 ===============================================================================
 
 This is a github repo to hold my temporary code:
